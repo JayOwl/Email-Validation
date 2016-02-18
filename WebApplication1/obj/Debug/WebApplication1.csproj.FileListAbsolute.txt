@@ -1,0 +1,470 @@
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Owin.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\zzz Storage\Documents\SSD\Visual Studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\roslyn\csc.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\roslyn\vbc.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\WebApplication1.dll.config
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\WebApplication1.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\WebApplication1.pdb
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\EntityFramework.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.Owin.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Owin.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Helpers.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Mvc.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Razor.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Webpages.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\EntityFramework.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.Owin.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Razor.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Webpages.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Helpers.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Mvc.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\obj\Debug\WebApplication1.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Newtonsoft.Json.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Cors.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Http.Cors.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Http.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\Newtonsoft.Json.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Http.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\LoginPage\WebApplication1\bin\System.Web.Http.Cors.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\roslyn\csc.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\roslyn\vbc.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\WebApplication1.dll.config
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\WebApplication1.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\WebApplication1.pdb
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\EntityFramework.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.Owin.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Newtonsoft.Json.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Owin.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Cors.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Helpers.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Http.Cors.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Http.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Mvc.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Razor.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Webpages.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\EntityFramework.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.Owin.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\Newtonsoft.Json.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Http.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Http.Cors.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Razor.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Webpages.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Helpers.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\bin\System.Web.Mvc.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\obj\Debug\WebApplication1.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\Day 01\LoginPage\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\roslyn\csc.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\roslyn\vbc.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\WebApplication1.dll.config
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\WebApplication1.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\WebApplication1.pdb
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\EntityFramework.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Newtonsoft.Json.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Owin.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Cors.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Helpers.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Http.Cors.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Http.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Mvc.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Razor.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Webpages.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\EntityFramework.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\Newtonsoft.Json.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Http.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Http.Cors.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Razor.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Webpages.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Helpers.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\bin\System.Web.Mvc.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\obj\Debug\WebApplication1.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\roslyn\csc.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\roslyn\vbc.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\WebApplication1.dll.config
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\WebApplication1.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\WebApplication1.pdb
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\EntityFramework.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.Owin.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Newtonsoft.Json.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Owin.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Cors.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Helpers.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Http.Cors.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Http.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Mvc.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Razor.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Webpages.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\EntityFramework.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.Owin.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\Newtonsoft.Json.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Http.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Http.Cors.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Razor.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Webpages.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Helpers.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\bin\System.Web.Mvc.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\obj\Debug\WebApplication1.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment2\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\roslyn\csc.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\roslyn\vbc.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\WebApplication1.dll.config
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\WebApplication1.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\WebApplication1.pdb
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\EntityFramework.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.Owin.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Newtonsoft.Json.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Owin.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Cors.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Helpers.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Http.Cors.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Http.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Mvc.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Razor.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Webpages.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Webpages.Razor.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\EntityFramework.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.Owin.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\Newtonsoft.Json.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Http.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Http.Cors.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Razor.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Webpages.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Webpages.Razor.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Helpers.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\bin\System.Web.Mvc.xml
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\obj\Debug\WebApplication1.dll
+D:\zzz Storage\Documents\SSD\WebSecurity\WAS_Assignment4\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\roslyn\csc.exe
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\WebApplication1.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\WebApplication1.pdb
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\EntityFramework.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Owin.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Recaptcha.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Cors.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Http.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\EntityFramework.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\Recaptcha.pdb
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Http.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\a00964517\Desktop\WAS_Assignment5\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\roslyn\csc.exe
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\WebApplication1.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\WebApplication1.pdb
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\EntityFramework.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Owin.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Cors.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Http.Cors.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Http.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\EntityFramework.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Recaptcha.pdb
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Http.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Http.Cors.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\joe8b\Desktop\WAS_Assignment\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml

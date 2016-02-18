@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("LOGIN/LOGOUT", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                </div>
+                
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        @{
+                            if (Request.IsAuthenticated && (User.IsInRole("Admin")))
+                            {
+                                <li>
+                                    @Html.ActionLink("Secure Area", "SecureArea")
+                                </li>
+                                <li>
+                                    @Html.ActionLink("Contractor Area", "ContractorArea")
+                                </li>
+                                <li>
+                                    @Html.ActionLink("Administrators Only", "AdminOnly")
+                                </li>
+                                <li>
+                                    @Html.ActionLink("Logout", "Logout")
+                                </li>
+                                <li style="color: white; padding-top: 15px;">
+                                    <span> | </span>@Html.Raw(User.Identity.Name)
+                                </li>
+                            }
+                            else if (Request.IsAuthenticated && ((User.IsInRole("Employee") || User.IsInRole("Contractor"))))
+                            {
+                                <li>
+                                    @Html.ActionLink("Secure Area", "SecureArea")
+                                </li>
+                                <li>
+                                    @Html.ActionLink("Contractor Area", "ContractorArea")
+                                </li>
+                                <li>
+                                    @Html.ActionLink("Logout", "Logout")
+                                </li>
+                                <li style="color: white; padding-top: 15px;">
+                                    <span> | </span>@Html.Raw(User.Identity.Name)
+                                </li>
+                            }
+                            else
+                            {
+                            }
+                        }
+                    </ul>
+                    </div>
+            </div>
+        </div>
+
+    @{ if (ViewBag.Message != null)
+        {
+            if (ViewBag.Message.Contains("Success"))
+            {
+                <div class="alert alert-success alert-dismissible" role="alert">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    @Html.Raw(ViewBag.Message)
+                </div>
+            }
+            else {
+
+                <div class="alert alert-danger alert-dismissible" role="alert">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    @Html.Raw(ViewBag.Message)
+                </div>
+            }
+        }
+    }
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="http://jqueryvalidation.org/files/dist/jquery.validate.min.js"></script>
+    <script src="http://jqueryvalidation.org/files/dist/additional-methods.min.js"></script>
+    <script>
+        jQuery.validator.setDefaults({
+            debug: true,
+            success: "valid"
+        });
+        $("#myform").validate({
+            rules: {
+                field: {
+                    required: true,
+                    email: true
+                }
+            }
+        });
+    </script>
+
+
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

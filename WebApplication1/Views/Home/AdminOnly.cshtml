@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "AdminOnly";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AdminOnly</title>
+</head>
+<body>
+    <div>
+
+        <h1>Admin Only</h1>
+
+         <p>This page should only be visible to administrators.</p>
+
+        @Html.ActionLink("AddRole", "AddRole")
+        @Html.ActionLink("AddUserToRole", "AddUserToRole")
+        
+
+    </div>
+</body>
+</html>
